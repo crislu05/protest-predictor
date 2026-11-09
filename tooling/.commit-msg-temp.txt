@@ -1,0 +1,4 @@
+Initial commit: London Protest Predictor (OxHack 2026).
+
+Co-authored-by: Jakub Kisielewski <186347180+Jakub-Kisielewski@users.noreply.github.com>
+Co-authored-by: Mykhailo Kopytskyi <114737786+MykhailoKopytskyi@users.noreply.github.com>
